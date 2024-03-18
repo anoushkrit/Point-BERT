@@ -1,10 +1,13 @@
 /**********************************
  * Original Author: Haoqiang Fan
  * Modified by: Kaichun Mo
+ * Modified by: Anouskkrit Goel
  *********************************/
 
 #ifndef _EMD_KERNEL
 #define _EMD_KERNEL
+#endif
+
 
 #include <cmath>
 #include <vector>
