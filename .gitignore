@@ -134,8 +134,11 @@ dmypy.json
 *.pt
 *.npy
 
+
 experiments/
 data/ShapeNet55-34/shapenet_pc
+data/ShapeNet55-34
+data/ModelNet
 data/ModelNet/modelnet40_normal_resampled/modelnet40_test_8192pts_fps.dat
 data/ModelNet/modelnet40_normal_resampled/modelnet40_train_8192pts_fps.dat
 data/ScanObjectNN/main_split
@@ -151,3 +154,4 @@ plot/
 pretrain_weight
 
 segmentation/log
+data
